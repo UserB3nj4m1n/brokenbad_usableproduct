@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "ate_blue": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "createbb:blue_meth"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "trippy:eat_blue"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "ate_white": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "createbb:white_meth"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "trippy:eat_white"
+  }
+}
